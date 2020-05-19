@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntentActivity(Navigasi)</string>
+    <string name="moveactivity">moveActivity</string>
+    <string name="move_with_data">Pindah Activity dengan Data</string>
+    <string name="dial_number">Dial a Number</string>
+    <string name="data_received">Data Diterima</string>
+    <string name="this_is_moveactivity">Ini MoveActivity</string>
+    <string name="ini_move_activity">ini_move_activity</string>
+</resources>
